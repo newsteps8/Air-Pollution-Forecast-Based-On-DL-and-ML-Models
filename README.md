@@ -1,6 +1,10 @@
 # Air-Pollution-Forecast-Based-On-DL-and-ML-Models
 This repository has been created for air pollution forecast in the coming hours in Beijing.
 
+**Feature Engineering**
+
+Two new featues are added to dataset. First feature is week_day feature that is based on a date weekday or weekend. I use this information, because of weekday has more air pollution using cars and industrial machines. Second feature is seasonal_rate that is based on a date winter, fall, spring or summer. There is more air pollution on winter and fall because of using coal and other fuels for warming. 
+
 
 **Comments**
 
